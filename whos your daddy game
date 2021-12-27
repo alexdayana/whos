@@ -22,7 +22,7 @@
 			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
 		},
 		"Yandex": {
-			"activated": false,
+			"activated": true,
 			"banner": "R-M-1442786-2",
 			"native": "R-M-1442786-3",
 			"interstitial": "R-M-1442786-1"
