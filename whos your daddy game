@@ -13,7 +13,7 @@
 			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 		},
 		"ironSource": {
-			"activated": true,
+			"activated": false,
 			"app_key": "11dae943d"
 		},
 		"Tapdaq": {
@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.whos.dady",
+		"package_name": "com.whosand.daddox",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
